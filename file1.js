@@ -1,3 +1,3 @@
 function Hello() {
-  return; 
+  return false; 
 }
